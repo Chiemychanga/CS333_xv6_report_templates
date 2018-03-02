@@ -6,6 +6,15 @@ Do you hate how long it takes you to write a report?
 
 In this repo, I have created templates for each Project Report based off the appropriate grading rubric. 
 
+Advantages:
+  - Easier for graders to grade your report
+  - Neat
+  - Save time writing/formatting
+  
+Disadvantages:
+  - You won't know how to work with LaTex if you don't play with it yourself (inspect the LaTex and try to understand, it's very useful!)
+
+
 All you need to do is fill in your correct overview/description for each section to complete your report. 
 
 To start, 
